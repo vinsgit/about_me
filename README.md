@@ -1,70 +1,42 @@
-# Vita
-Add: Chengdu, Sichuan, China </br>
-Email: Vitamiumiu@gmail.com </br>
-BS degree, English (fluent), Chinese (fluent) </br>
+# About Me
 
-# Professional Summary 
-2+ years of experience in Ruby on Rails development, with the ability to write clean, maintainable, and thoroughly tested Ruby on Rails code. Participate in daily stand-ups, reviews, design sessions, and architectural discussions. Responsible for ensuring that each project follows software development principles, standards, and best practices. Work to integrate applications with other web services and maintain existing websites, and provide support for critical production issues. Utilize the latest software tools to optimize project performance and resolve project issues. Ability to adjust work pace to meet changing client needs. Proven track record of meeting deadlines and completing projects.
+Hey there! I'm Que Shan, a passionate and self-driven full-stack developer with over seven years of experience in the tech industry. My journey started back at Neusoft University, where I pursued a Bachelor's degree in Computer Science, setting the stage for my career in technology.
 
-# Skills
-* 2+ years of experience in Ruby on Rails
-* RESTful API's with Spring boot technology stack
-* Relational and NoSQL databases
-* Front-end development framework: HTML5, CSS and JavaScript.
-* Testing framework: Rspec
-* Error monitor: Sentry
-* Git, Gitlab
-* Docker
-* Superb communication skills
+## Professional Background
 
-# Experience
-## National Business Daily  2017 - 2019
-### Cloud Web Guest system 2017-2019 
-**Project description**</br>
-This project is mainly used for online promotion and serves small and medium-sized businesses. The client demands to improve their company's ranking in the search engines (when people search for specific keywords, the name of the client's company appears on the first page of the search engine). To achieve this goal, our users send their articles on the Cloud Web Guest platform. Then we will transfer the advertising articles to the news platform who collaborate with our company and relying on the weight of the news media in search engines，SEO, and other techniques to improve the ranking of the user's articles in search engines.</br>
-* Ruby on Rails | Develop front-end | Develop back-end | Maintain the system
-* Rspec and FactoryBot used in this project for automated testing
-* Database: MySQL | Redis | Elasticsearch used as the search engine, and IK used as the Chinese word splitting plug-in in the project
-* Background jobs: Sideqik
+### Experience Highlights
 
-### Cloud Q&A system 2018
-**Project description**</br>
-This project interface with well-known Q&A websites such as Baidu Q&A, Sina Q&A, Tianya Q&A, and National Business Daily Q&A. The essence of the system is the same as the Cloud Web Guest system. Both of them rely on the weight of other famous websites and SEO to optimize users' search rankings in search engines. Our clients post their questions and answers in the Cloud Q&A system, and then the system publishes the contents to those Q&A websites.</br>
-* Ruby on Rails | Develop front-end | Develop back-end  | Maintain the system
-* Rspec and FactoryBot 
-* Database: MySQL | Redis | Elasticsearch 
-* Background jobs: Sideqik
-* Deployment: Capistrano
+#### Align Technology, Inc. (Jul. 2022 - Oct. 2023)
+As a Web Developer at Align Technology, I spearheaded the development of a Campaign page builder system, empowering marketers to distribute coupons, promote events, and collect user information efficiently. I also led the implementation of Microservices architecture, significantly reducing data loss and enhancing performance across millions of devices.
 
-###  Network Opinion Monitor system 2019
-**Project description**</br>
-The project is due to monitor information that negatively affects our clients on major Chinese websites and deliver early warning messages via WeChat.</br>
-* Ruby on Rails API-only | Maintain the system
-* WeChat API interface
-* Based on Nokogiri coding crawler to crawl information from Baidu, WeChat, and Sina Weibo
-* Database: MySQL | Redis
-* Background jobs: Sideqik
+#### Kone Carbide Tool Co., Ltd. (Sep. 2020 - Apr. 2022)
+During my tenure as a Tech Manager and Web Developer at Kone Carbide Tool Co., Ltd., I successfully developed three websites, including an E-commerce Shopify site and two B2B sites. I focused on optimizing website performance metrics and implementing robust data-tracking mechanisms to drive data-driven decision-making.
 
-## Apple Auto Signature system 2020
-**Project description**</br>
-This project developed to automate the process of adding devices to the Apple app's certificate.</br>
-* The entire system relies upon the Fastlane framework. I modified part of the Fastlane source code to change the logic of two-step verification when Apple developer login.
-* Ruby on Rails | Develop front-end | Develop back-end | Maintain the system
-* Database: PostgreSQL
-* Background jobs: Sideqik
-* Aliyun OSS (Aliyun file server) to store Ipa packages 
-* Deployment: Capistrano
-* Error monitor: Sentry 
+#### Freelancer (Oct. 2019 - Sep. 2020)
+As a Freelance Web Developer, I led the development of an Apple IPA signature system and established seamless communication between different components through a robust RESTful API. I also integrated error-monitoring systems to enhance overall system stability.
 
-# Open source projects
-**customize the output order of the queried fields** </br>
-https://github.com/vinsgit/order_as_arbitrary
+#### National Business Daily (Oct. 2016 - Oct. 2019)
+At National Business Daily, I contributed to developing innovative systems to improve SEO rankings for small and medium-sized companies. I maintained projects on Alibaba Cloud, ensuring optimal performance and cost efficiency.
 
-# Speech
-**Dockerizing Rails - RubySG**</br>
-* YouTube: https://www.youtube.com/watch?v=W53mWN7iYc0&feature=youtu.be
-* bilibili: https://www.bilibili.com/video/BV1Tg4y1v7ei
-* github: https://github.com/vinsgit/docker_study
+### Personal Projects
 
-# Education
-2016 Neusoft University, Chengdu, China Bachelor's Degree in Software Engineering
+- **Automated Trading Tool**: Developed a small tool in Ruby, docked to the Huobi API, facilitating risk-free cryptocurrency futures arbitrage for my investments.
+- **Affiliate Programs Management**: Established and managed affiliate programs on Sharesale and Awin, driving partnerships and revenue growth.
+- **SEO Optimization**: Led both On-Page SEO and Off-Page SEO efforts, enhancing search engine visibility and rankings.
+- **Mentorship**: Mentored team members, providing technical leadership and facilitating learning sessions for Technology Leadership Engineers.
+
+## Technical Skills
+
+- **Languages**: Ruby, JavaScript, TypeScript
+- **Databases**: MySQL, PostgreSQL, Redis
+- **Frameworks**: Ruby on Rails, Next.js, React
+- **Tools & Technologies**: Docker, Heroku, GitLab, AWS, Google Analytics
+- **Testing**: Test-Driven Development (RSpec, Capybara, FactoryBot)
+- **Methodologies**: Scrum
+
+## Contact
+
+- **Email**: vitamiumiu@gmail.com
+- **LinkedIn**: [linkedin.com/in/que-shan](https://linkedin.com/in/que-shan)
+
+Feel free to reach out if you'd like to connect or collaborate on exciting projects!
